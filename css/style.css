@@ -58,7 +58,7 @@
   }
 /* -----x------------loader----------x------ */
 .landing-page{
-    background: url('/images/bg.jpg');
+    background: url('../images/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;   
