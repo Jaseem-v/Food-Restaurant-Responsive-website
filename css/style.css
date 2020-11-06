@@ -58,7 +58,7 @@
   }
 /* -----x------------loader----------x------ */
 .landing-page{
-    background: url('/images/bg.jpg');
+    background: url(/images/bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;   
@@ -291,7 +291,7 @@ header.sticky nav ul li a:hover{
 /* --------testimoniaols--------- */
 #testimonials{
     margin-top: 10rem;
-    background: url('/images/bg2.jpg');
+    background: url(/images/bg2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
@@ -419,7 +419,7 @@ footer.copy_right a{
     }
     nav .menu-toggle{
         float: right;
-        background: url('/images/menu.png');
+        background: url(/images/menu.png);
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
@@ -429,7 +429,7 @@ footer.copy_right a{
         cursor: pointer;
     }
     nav .menu-toggle.active{
-        background: url('/images/close.png');
+        background: url(/images/close.png);
         background-size: 25px;
         background-repeat: no-repeat;
         background-position: center;
